@@ -9,11 +9,11 @@ required. Additionally, the predictive performance could be further improved by 
 random forest (RF) models. The resulting ensemble learning algorithm might open up a new opportunity for more precise, 
 high-throughput virtual screening of conjugated polymers for OPV devices.
 
-You will find two jupyter notebook files in this repository. Thr modelling details can be found in the first file, 
+You will find two jupyter notebook files in this repository. The modelling details can be found in the first file, 
 "Model.ipynb". Note the raw data used in the models was published by a paper, entitled "Computer-Aided Screening of 
 Conjugated Polymers for Organic Solar Cell: Classification by Random Forest", by Nagasawa et al. [J. Phys. Chem. Lett.
 vol. 9, pp. 2639-2646, 2018].
 
 After the model was ready. We test it by using the other dataset obtained from the paper, “The Harvard organic 
 photovoltaic dataset”, by Lopez et al. [Sci. Data vol. 3, Art. no. 160086, 2016]. The code is in the second file,
-"Prediction.ipynb".
+"Prediction.ipynb". Note that all the data (not split data) is used for building the model for prediction.
