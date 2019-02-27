@@ -1,5 +1,5 @@
 # V-Screening-OPV
-Machine learning codes for virtual screening of conjugated polymers for organic photovoltaic devices (solar cells)
+#### Machine learning codes for virtual screening of conjugated polymers for organic photovoltaic devices (solar cells)
 
 In this repository, we create models for virtual screening of conjugated polymers for organic photovoltaic devices using
 various machine learning algorithms. We particular focus on support vector machine (SVM) and ensemble learning approaches.
