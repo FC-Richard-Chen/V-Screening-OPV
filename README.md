@@ -17,3 +17,5 @@ vol. 9, pp. 2639-2646, 2018].
 After the model was ready. We test it by using the other dataset obtained from the paper, “The Harvard organic 
 photovoltaic dataset”, by Lopez et al. [Sci. Data vol. 3, Art. no. 160086, 2016]. The code is in the second file,
 "Prediction.ipynb". Note that all the data (not split data) is used for building the model for prediction.
+
+#### This model has been deployed on ngrok temporarily. Please check http://17b82a03.ngrok.io/ 
