@@ -4,7 +4,7 @@
 In this repository, we create models for virtual screening of conjugated polymers for organic photovoltaic devices using
 various machine learning algorithms. We particular focus on support vector machine (SVM) and ensemble learning approaches.
 We found the power conversion efficiencies (PCEs) of the device prepared with the polymer candidates can be predicted with
-their structure fingerprints as the only inputs. In other words, no preliminary knowledge about material properties were 
+their structure fingerprints as the only inputs. In other words, no preliminary knowledge about material properties are 
 required. Additionally, the predictive performance could be further improved by “blending” the results of the SVM and 
 random forest (RF) models. The resulting ensemble learning algorithm might open up a new opportunity for more precise, 
 high-throughput virtual screening of conjugated polymers for OPV devices.
@@ -19,3 +19,4 @@ photovoltaic dataset”, by Lopez et al. [Sci. Data vol. 3, Art. no. 160086, 201
 "Prediction.ipynb". Note that all the data (not split data) is used for building the model for prediction.
 
 #### This model has been deployed on ngrok temporarily. Please check http://17b82a03.ngrok.io/ 
+#### The research article about this model has been published here: https://www.hindawi.com/journals/ijps/2019/4538514/
